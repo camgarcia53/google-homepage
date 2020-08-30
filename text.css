@@ -1,0 +1,35 @@
+body {
+  text-align: center;  
+}
+
+h1 {
+    left: 0;
+    line-height:200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width:100%;
+}
+
+
+input {
+    left: 0;
+    line-height: 5px;
+    margin-top:200px;
+    position: bottom;
+    text-align: center;
+    top:30%;
+    width: 30%;
+
+}
+
+div {
+    left: 0;
+    line-height: -100px;
+    margin-top: 200px;
+    position: top;
+    text-align: top;
+    top: 40%;
+    width: 100%;
+}
